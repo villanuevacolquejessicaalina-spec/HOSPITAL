@@ -1,0 +1,355 @@
+{
+  "7076069": {
+    "CI": null,
+    "Nombre": "Fernandez Ramires Paulina",
+    "Sexo": "Masculino",
+    "Telefono": "45871252",
+    "Nacimiento": "1/1/2000",
+    "Ocupacion": "Maestra",
+    "Residencia": "El Paso",
+    "Historial": [
+      {
+        "Fecha": "07/05/2026 07:30",
+        "Motivo": "Fiebre alta y malestar general.",
+        "Vitales": {
+          "Peso/Talla": "55/1,60",
+          "PA": "110",
+          "FC": "88",
+          "FR": "20",
+          "Temp": "38",
+          "SatO2": "95"
+        },
+        "Anamnesis": {
+          "Motivo": "Fiebre alta y malestar general.",
+          "Enfermedad Actual": "Paciente refiere cuadro clínico de 48 horas de evolución caracterizado por rinorrea, tos persistente y mialgias. Presenta picos febriles nocturnos.",
+          "Antecedentes": "Asma bronquial en la infancia; rinitis alérgica estacional."
+        }
+      },
+      {
+        "Fecha": "07/05/2026 07:56",
+        "Motivo": "Dificultad respiratoria severa.",
+        "Vitales": {
+          "Peso/Talla": "90/1,82",
+          "PA": "110",
+          "FC": "72",
+          "FR": "16",
+          "Temp": "36",
+          "SatO2": "98"
+        },
+        "Anamnesis": {
+          "Motivo": "Dificultad respiratoria severa.",
+          "Enfermedad Actual": "Inicio súbito hace 3 horas de disnea progresiva acompañada de dolor torácico tipo punzante.",
+          "Antecedentes": "Fumador crónico (20 cigarrillos/día); diabetes tipo 2."
+        }
+      },
+      {
+        "Fecha": "07/05/2026 08:05",
+        "Motivo": "Retiro de puntos y evaluación de cirugía de vesícula.",
+        "Vitales": {
+          "Peso/Talla": "82/1,78",
+          "PA": "130/85",
+          "FC": "78",
+          "FR": "18",
+          "Temp": "37,2",
+          "SatO2": "96"
+        },
+        "Anamnesis": {
+          "Motivo": "Retiro de puntos y evaluación de cirugía de vesícula.",
+          "Enfermedad Actual": "Evolución favorable de 7 días post-colecystectomía. Refiere dolor leve (2/10) en zona de incisiones al realizar esfuerzos.",
+          "Antecedentes": "Cirugía abdominal previa (2022); sin otras patologías crónicas."
+        }
+      }
+    ]
+  },
+  "9392888": {
+    "CI": null,
+    "Nombre": "Villanueva Colque Jessica Alina",
+    "Sexo": "Femenino",
+    "Telefono": "72789342",
+    "Nacimiento": "9/8/2006",
+    "Ocupacion": "Estudiante",
+    "Residencia": "El Paso",
+    "Historial": [
+      {
+        "Fecha": "07/05/2026 07:28",
+        "Motivo": "Control anual de rutina y revisión de laboratorios.",
+        "Vitales": {
+          "Peso/Talla": "63/1,68",
+          "PA": "120",
+          "FC": "72",
+          "FR": "16",
+          "Temp": "36",
+          "SatO2": "98"
+        },
+        "Anamnesis": {
+          "Motivo": "Control anual de rutina y revisión de laboratorios.",
+          "Enfermedad Actual": "El paciente se encuentra asintomático al momento de la consulta. Niega dolor o malestar reciente.",
+          "Antecedentes": "Hipertensión arterial controlada con medicación; sin alergias conocidas."
+        }
+      },
+      {
+        "Fecha": "07/05/2026 07:52",
+        "Motivo": "",
+        "Vitales": {
+          "Peso/Talla": "3",
+          "PA": "",
+          "FC": "",
+          "FR": "",
+          "Temp": "",
+          "SatO2": ""
+        },
+        "Anamnesis": {
+          "Motivo": "",
+          "Enfermedad Actual": "",
+          "Antecedentes": ""
+        }
+      },
+      {
+        "Fecha": "07/05/2026 07:55",
+        "Motivo": "Fiebre alta y malestar general.",
+        "Vitales": {
+          "Peso/Talla": "62/1,68",
+          "PA": "150",
+          "FC": "110",
+          "FR": "24",
+          "Temp": "39",
+          "SatO2": "91"
+        },
+        "Anamnesis": {
+          "Motivo": "Fiebre alta y malestar general.",
+          "Enfermedad Actual": "Paciente refiere cuadro clínico de 48 horas de evolución caracterizado por rinorrea, tos persistente y mialgias. Presenta picos febriles nocturnos.",
+          "Antecedentes": "Asma bronquial en la infancia; rinitis alérgica estacional."
+        }
+      },
+      {
+        "Fecha": "07/05/2026 11:24",
+        "Motivo": "--",
+        "Vitales": {
+          "Peso/Talla": "93/1,93",
+          "PA": "65",
+          "FC": "555",
+          "FR": "25",
+          "Temp": "66",
+          "SatO2": "25"
+        },
+        "Anamnesis": {
+          "Motivo": "--",
+          "Enfermedad Actual": "---",
+          "Antecedentes": "---"
+        }
+      },
+      {
+        "Fecha": "07/05/2026 20:47",
+        "Motivo": "Control anual de rutina y revisión de laboratorios.",
+        "Vitales": {
+          "Peso/Talla": "60/1,65",
+          "PA": "120",
+          "FC": "70",
+          "FR": "16",
+          "Temp": "36,5",
+          "SatO2": "93"
+        },
+        "Anamnesis": {
+          "Motivo": "Control anual de rutina y revisión de laboratorios.",
+          "Enfermedad Actual": "El paciente se encuentra asintomático al momento de la consulta. Niega dolor o malestar reciente.",
+          "Antecedentes": "Hipertensión arterial controlada con medicación; sin alergias conocidas."
+        }
+      }
+    ]
+  },
+  "1111111": {
+    "CI": null,
+    "Nombre": "Encinas Ariel",
+    "Sexo": "Masculino",
+    "Telefono": "1111111",
+    "Nacimiento": "6/7/2004",
+    "Ocupacion": "Estudiante",
+    "Residencia": "El Paso",
+    "Historial": [
+      {
+        "Fecha": "07/05/2026 07:58",
+        "Motivo": "Control de niño sano y esquema de vacunación.",
+        "Vitales": {
+          "Peso/Talla": "80/1,85",
+          "PA": "90",
+          "FC": "105",
+          "FR": "28",
+          "Temp": "37",
+          "SatO2": "99"
+        },
+        "Anamnesis": {
+          "Motivo": "Control de niño sano y esquema de vacunación.",
+          "Enfermedad Actual": "Paciente acude para revisión de rutina. Buen estado general, activo, reactivo, con alimentación adecuada para la edad.",
+          "Antecedentes": "Nacimiento a término sin complicaciones; alergia alimentaria leve (fresas)."
+        }
+      },
+      {
+        "Fecha": "07/05/2026 10:51",
+        "Motivo": "Dolor de cabeza",
+        "Vitales": {
+          "Peso/Talla": "100/1,60",
+          "PA": "93",
+          "FC": "25",
+          "FR": "36",
+          "Temp": "36",
+          "SatO2": "99"
+        },
+        "Anamnesis": {
+          "Motivo": "Dolor de cabeza",
+          "Enfermedad Actual": "Fiebre con escalofrios",
+          "Antecedentes": "ninguno"
+        }
+      }
+    ]
+  },
+  "1234567": {
+    "CI": null,
+    "Nombre": "Aguilr Heydi",
+    "Sexo": "Femenino",
+    "Telefono": "5875652",
+    "Nacimiento": "1/4/2002",
+    "Ocupacion": "Modista",
+    "Residencia": "Marquina",
+    "Historial": [
+      {
+        "Fecha": "07/05/2026 07:59",
+        "Motivo": "Retiro de puntos y evaluación de cirugía de vesícula.",
+        "Vitales": {
+          "Peso/Talla": "60/1,60",
+          "PA": "130",
+          "FC": "78",
+          "FR": "18",
+          "Temp": "37",
+          "SatO2": "96"
+        },
+        "Anamnesis": {
+          "Motivo": "Retiro de puntos y evaluación de cirugía de vesícula.",
+          "Enfermedad Actual": "Evolución favorable de 7 días post-colecystectomía. Refiere dolor leve (2/10) en zona de incisiones al realizar esfuerzos.",
+          "Antecedentes": "Cirugía abdominal previa (2022); sin otras patologías crónicas."
+        }
+      },
+      {
+        "Fecha": "07/05/2026 10:54",
+        "Motivo": "Pierna fracturada",
+        "Vitales": {
+          "Peso/Talla": "63/1,55",
+          "PA": "85",
+          "FC": "51",
+          "FR": "74",
+          "Temp": "36",
+          "SatO2": "95"
+        },
+        "Anamnesis": {
+          "Motivo": "Pierna fracturada",
+          "Enfermedad Actual": "Piena fracturada",
+          "Antecedentes": "Ninguno"
+        }
+      }
+    ]
+  },
+  "8965421": {
+    "CI": null,
+    "Nombre": "Choque Mamani Fernando",
+    "Sexo": "Masculino",
+    "Telefono": "5214775",
+    "Nacimiento": "14/6/2012",
+    "Ocupacion": "Plomero",
+    "Residencia": "Quillacollo",
+    "Historial": []
+  },
+  "7654321": {
+    "CI": null,
+    "Nombre": "Pinto Pacci Arlet",
+    "Sexo": "Femenino",
+    "Telefono": "8547669",
+    "Nacimiento": "8/5/2022",
+    "Ocupacion": "Estudiante",
+    "Residencia": "Tiquipaya",
+    "Historial": []
+  },
+  "7777777": {
+    "CI": null,
+    "Nombre": "Gutierrez Mendoza Lucas",
+    "Sexo": "Masculino",
+    "Telefono": "5874122",
+    "Nacimiento": "9/5/2001",
+    "Ocupacion": "Comersiante",
+    "Residencia": "Quillacollo",
+    "Historial": []
+  },
+  "9999999": {
+    "CI": null,
+    "Nombre": "Pacheco Guzman Elena",
+    "Sexo": "Femenino",
+    "Telefono": "5486951",
+    "Nacimiento": "10/10/2010",
+    "Ocupacion": "Estudiane",
+    "Residencia": "El Paso",
+    "Historial": [
+      {
+        "Fecha": "07/05/2026 08:00",
+        "Motivo": "Consulta regular ",
+        "Vitales": {
+          "Peso/Talla": "100/1,70",
+          "PA": "100/60",
+          "FC": "115",
+          "FR": "26",
+          "Temp": "35,9",
+          "SatO2": "92"
+        },
+        "Anamnesis": {
+          "Motivo": "Consulta regular ",
+          "Enfermedad Actual": "ninguna",
+          "Antecedentes": "ninguna"
+        }
+      },
+      {
+        "Fecha": "07/05/2026 10:53",
+        "Motivo": "Dolor de barriga",
+        "Vitales": {
+          "Peso/Talla": "55/1,60",
+          "PA": "96",
+          "FC": "58",
+          "FR": "58",
+          "Temp": "36",
+          "SatO2": "99"
+        },
+        "Anamnesis": {
+          "Motivo": "Dolor de barriga",
+          "Enfermedad Actual": "Diarrea y escalofrios",
+          "Antecedentes": "Ninguno"
+        }
+      }
+    ]
+  },
+  "|": {
+    "CI": null,
+    "Nombre": "Gonzales Chavez Teresa",
+    "Sexo": "Femenino",
+    "Telefono": "9876543",
+    "Nacimiento": "18/6/1",
+    "Ocupacion": "Abogada",
+    "Residencia": "Tiquipaya",
+    "Historial": []
+  },
+  "5924872": {
+    "CI": null,
+    "Nombre": "Alison Adriana Pozo Aguila",
+    "Sexo": "Femenino",
+    "Telefono": "69500583",
+    "Nacimiento": "29/6/1999",
+    "Ocupacion": "protesista dental",
+    "Residencia": "cercado",
+    "Historial": []
+  },
+  "13523434": {
+    "CI": null,
+    "Nombre": "Maria Liz Mamani Cruz",
+    "Sexo": "Femenino",
+    "Telefono": "68513493",
+    "Nacimiento": "16/1/2006",
+    "Ocupacion": "Estudiante",
+    "Residencia": "Guayacan y Barrancas",
+    "Historial": []
+  }
+}
